@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-markdown-description",
+  "version": "0.1.0",
+  "description": "Mongoose middleware to automatically generate descriptions from markdown text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronJew/mongoose-markdown-description.git"
+  },
+  "keywords": [
+    "mongoose",
+    "markdown",
+    "description",
+    "nodejs"
+  ],
+  "author": "Grant Spencer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IronJew/mongoose-markdown-description/issues"
+  },
+  "homepage": "https://github.com/IronJew/mongoose-markdown-description#readme"
+}
