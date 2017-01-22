@@ -42,6 +42,7 @@ module.exports = function(modelName, markdownField, destField, opts) {
 		}
 
 		this[destField] = _.truncate(removeMd(string), {length: 140});
+		next();
 	};
 };
 

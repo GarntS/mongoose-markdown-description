@@ -1,6 +1,6 @@
 {
   "name": "mongoose-markdown-description",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mongoose middleware to automatically generate descriptions from markdown text.",
   "main": "index.js",
   "scripts": {
